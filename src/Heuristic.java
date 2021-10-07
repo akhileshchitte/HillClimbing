@@ -13,6 +13,12 @@ public class Heuristic {
     private int[] z1;
     private int[] z2;
     private int[] z3;
+    
+    private int[] o1;
+    private int[] o2;
+    private int[] o3;
+
+
 
    public Heuristic() {
         this.heuristic = heuristic;
