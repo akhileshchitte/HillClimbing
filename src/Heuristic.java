@@ -14,14 +14,23 @@ public class Heuristic {
     private int[] z2;
     private int[] z3;
 
-    public Heuristic() {
-
+   public Heuristic() {
+        this.heuristic = heuristic;
+        this.nullValue = nullValue;
+        this.x1 = x1;
+        this.x2 = x2;
+        this.x3 = x3;
+        this.y1 = y1;
+        this.y2 = y2;
+        this.y3 = y3;
+        this.z1 = z1;
+        this.z2 = z2;
+        this.z3 = z3;
+        this.o1 = o1;
+        this.o2 = o2;
+        this.o3 = o3;
 
     }
-
-    private int[] o1;
-    private int[] o2;
-    private int[] o3;
 
 
 
